@@ -3,6 +3,16 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 
 ***
 
+1. If You don't have a account in railway. Create a account in railway.
+    <br>
+<a href='https://railway.app/login' target="_blank"><img alt='railway' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
+
+2.Get [Railway api key](https://railway.app/account/tokens)
+
+3. Now Deploy
+    <br>
+<a href='https://jarvis-qr.vercel.app/railway' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
+
 ### SETUP
 1. [![Fork](https://img.shields.io/github/forks/a-d-i-t-h-y-a-n/hermit-bot?style=social)](https://github.com/a-d-i-t-h-y-a-n/hermit-bot/fork)
 2. Scan the QR or pair and copy it
