@@ -11,7 +11,7 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 
 3. Now Deploy
     <br>
-<a href='https://jarvis-qr.vercel.app/railway' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
+<a href='https://hermit-md.adithyan.in.net/railway' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
 ### SETUP
 1. [![Fork](https://img.shields.io/github/forks/a-d-i-t-h-y-a-n/hermit-bot?style=social)](https://github.com/a-d-i-t-h-y-a-n/hermit-bot/fork)
